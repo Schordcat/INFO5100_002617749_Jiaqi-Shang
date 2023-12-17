@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookShelf>
+    <Book>
+        <title>The Adventures of Sherlock Holmes</title>
+        <publishedYear>1892</publishedYear>
+        <numberOfPages>307</numberOfPages>
+        <authors>
+            <author>Arthur Conan Doyle</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>To Kill a Mockingbird</title>
+        <publishedYear>1960</publishedYear>
+        <numberOfPages>281</numberOfPages>
+        <authors>
+            <author>Harper Lee</author>
+        </authors>
+    </Book>
+    <Book>
+        <title>1984</title>
+        <publishedYear>1949</publishedYear>
+        <numberOfPages>328</numberOfPages>
+        <authors>
+            <author>George Orwell</author>
+        </authors>
+    </Book>
+</BookShelf>
